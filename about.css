@@ -1,0 +1,42 @@
+.navbar{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: cyan;
+}
+body{
+    background-color: bisque;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: cadetblue;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
+.container{
+    text-align: justify;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+p{
+    font-size: 25px;
+    font-family: cursive;
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+}
+.footer-content{
+    font-size: 15px;
+    font-family: cursive;
+}

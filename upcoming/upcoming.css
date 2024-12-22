@@ -1,0 +1,101 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.main{
+    width: 80%;
+    height: auto;
+    padding: 15px;
+    background-image: linear-gradient(rgb(123, 123, 170),rgba(156, 64, 15, 0.581));
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    background-color: cyan;
+    margin-bottom: 30px;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+}
+a:hover{
+    color: yellowgreen;
+}
+.vote{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: cadetblue;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
+h3{
+    font-size: 30px;
+    font-family:impact;
+    color: white;
+}
+select{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 60px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    margin-left: 45%;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    color: darkgoldenrod;
+    font-size: 20px;
+}
+button:hover{
+    background-color: crimson;
+    color: cornflowerblue;
+}
+.pass{
+top: 20%;
+left: 20%;
+border: 2px solid black;
+background-color: white;
+}
+.display{
+    display: none;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 30px;
+    color: white;
+}
+h4{
+    font-size: 30px;
+    color: white;
+}
+.password{
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
